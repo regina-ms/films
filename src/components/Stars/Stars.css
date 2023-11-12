@@ -1,0 +1,12 @@
+.card-body-stars {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 50vh auto;
+    width: fit-content;
+}
+
+.card-body-stars li {
+    padding: 0;
+    margin: 0;
+}
